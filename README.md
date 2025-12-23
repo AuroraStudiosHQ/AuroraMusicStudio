@@ -1,47 +1,56 @@
-# AuroraMusicStudio 🎤✨
-AI-powered vocal creation app by AuroraStudiosHQ.
+# AuroraMusicStudio
 
-AuroraMusicStudio is a mobile-first app designed for singers, creators, and
-short‑form content makers. It focuses on helping users explore their voice and
-express themselves creatively through modern technology and intuitive design.
+AI-powered vocal creation and coaching environment.
 
 ---
 
-## 🌟 Vision
-To make vocal creativity accessible to everyone — simple, inspiring, and mobile.
+## 🚀 Vision
 
-AuroraMusicStudio aims to bridge the gap between casual singing and modern
-music creation by offering an intuitive environment where your voice becomes
-the center of the creative process.
+AuroraMusicStudio empowers creators to explore, shape, and improve their voice using modern AI technologies.  
+The focus is on creativity, personal growth, and giving users tools that feel powerful yet easy to use.
 
----
-
-## 🎯 Target Audience
-- Singers & vocal enthusiasts  
-- Creators on platforms like TikTok, Reels, and Shorts  
-- Musicians and hobby artists  
-- Anyone who wants to experiment with their voice in a new way  
+AuroraMusicStudio stands for:
+- creative freedom  
+- accessible vocal tools  
+- a clean, creator-focused workflow  
 
 ---
 
-## 🚀 Project Status
-AuroraMusicStudio is currently in early development.  
-Core systems, design concepts, and foundational components are being built.
+## ✨ Core Concept
 
-More information will be added as the project evolves.
-
----
-
-## 🔒 Note
-Detailed features, technical implementations, and AI methods are intentionally
-not included in this public README to protect the originality of the project.
+AuroraMusicStudio offers an AI-enhanced environment for vocal exploration and improvement.  
+The technical implementation and feature details are intentionally kept private while the product evolves.
 
 ---
 
-## 🏢 AuroraStudiosHQ
-Building AI-powered apps where technology meets imagination.
+## 🧩 Product Status
 
-Current apps:
-- AuroraTrading 📈  
-- AuroraMusic 🎵  
-- AuroraMusicStudio 🎤✨
+- **Stage:** Concept / early prototype  
+- **Target users:** Singers, creators, streamers, and anyone exploring vocal expression  
+- **Focus:** Creative tools, intuitive UX, and flexible workflows  
+
+---
+
+## 📂 Repository Structure
+
+- **`/app`** – Main interface and tools  
+- **`/docs`** – Concepts, product notes, and documentation  
+- **`/assets`** – Branding, visuals, and UI elements  
+
+---
+
+## 📘 Documentation
+
+- [Documentation](./docs)  
+- Roadmap coming soon  
+
+---
+
+## 🌌 Part of AuroraStudiosHQ
+
+AuroraMusicStudio is part of **AuroraStudiosHQ**, a multi-product studio building AI-powered apps for trading, music, and creators.
+
+Other products:
+- [AuroraTrading](https://github.com/AuroraStudiosHQ/AuroraTrading)  
+- [AuroraMusic](https://github.com/AuroraStudiosHQ/AuroraMusic)  
+- [AuroraStudiosHQ](https://github.com/AuroraStudiosHQ)
