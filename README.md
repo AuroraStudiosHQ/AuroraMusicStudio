@@ -1,4 +1,6 @@
-# AuroraMusicStudio
+### App Icon
+
+<img src="./assets/AuroraMusicStudio.png" width="200" /># AuroraMusicStudio
 
 AI-powered vocal creation and coaching environment.
 
