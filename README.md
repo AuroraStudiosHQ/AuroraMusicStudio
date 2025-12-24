@@ -63,7 +63,7 @@ All required sizes and formats:
 ## 🗺️ Roadmap  
 ✅ Branding  
 ✅ GitHub setup  
-⬜ Upload app icons  
+✅ Upload app icons  
 ⬜ Finalize MVP  
 ⬜ Build advanced audio engine  
 ⬜ Implement AI coaching  
